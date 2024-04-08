@@ -1,0 +1,35 @@
+.container-fluid{
+  background-color: #6c38a879;
+  height: 725px;
+}
+
+.container-styles{
+	position: relative; 
+	top: 260px;
+	width:50%
+}
+
+.padding{
+  padding-bottom:0px;
+  margin-bottom:0px;
+}
+
+.link-underline{
+   color:#337ab7;
+    text-decoration: underline;
+}
+
+.error{
+    color: red;
+    position:relative;
+    left:50px;
+}
+
+.valid {
+	border-left: 5px solid #42A948; /* green */
+}
+
+.invalid{
+	border-left: 5px solid #a94442; /* red */
+}
+

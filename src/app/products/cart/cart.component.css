@@ -1,0 +1,24 @@
+.panelpos{
+    position: relative; top: 150px; left: 380px; width: 46%;
+}
+
+.paymentpanelpos{
+    position: relative; 
+    top: 350px; 
+    left: 380px; 
+    text-align: center; 
+    width: 43%;
+}
+
+.tableheadercolor{
+    color: blue;
+}
+
+.center{
+    text-align:center;
+}
+
+.container-fluid{
+    background-color: #6c38a879;
+    height: 725px;
+  }
